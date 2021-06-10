@@ -1,4 +1,4 @@
-function say(name){
+function xiaoxiao(name){
   console.log('你好啊', name)
 }
 say('xiaozhu')
