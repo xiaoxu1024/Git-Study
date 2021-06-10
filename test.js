@@ -6,5 +6,3 @@ say('xiaozhu')
 function hello(){
   console.log('你好啊')
 }
-funciton fn(){
-}
